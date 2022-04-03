@@ -13,4 +13,4 @@ Learning in progress........
 <a href="https://www.instagram.com/vl4w15/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>    
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vl4w15&show_icons=true&theme=prussian)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vl4w15&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
