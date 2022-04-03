@@ -1,5 +1,6 @@
 ### Welcome 👋
 ![](https://www.brandcrowd.com/maker/social/b6vzxes4ml)
+https://rishavanand.github.io/static/images/greetings.gif
 
 Learning in progress........
 
