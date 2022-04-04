@@ -3,7 +3,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-Learning in progress........
+Learning in progress 💬
 
 - 🔭 I’m currently working on this page. 
 
