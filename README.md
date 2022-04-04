@@ -20,3 +20,5 @@ Learning in progress 💬
 </p>    
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vl4w15&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vl4w15&theme=gruvbox)](https://github.com/vl4w15/github-profile-trophy)
