@@ -7,6 +7,9 @@ Learning in progress........
 
 - 🔭 I’m currently working on this page. 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/vl4w15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a> 
