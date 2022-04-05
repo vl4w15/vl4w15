@@ -1,10 +1,12 @@
-### Welcome 👋
-
+### 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
-</div>  
+</div> 
 
-Learning in progress 💬
+<div align="center">
+<img src="https://octodex.github.com/images/hubot.jpg" width="300">
+<p>Learning in progress 💬</p>
+</div>
 
 - 🔭 I’m currently working on this page. 
 
