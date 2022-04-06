@@ -4,7 +4,7 @@
 </div> 
 
 <div align="center">
-<img src="https://octodex.github.com/images/hubot.jpg" width="300">
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="300">
 <p>Learning in progress 💬</p>
 </div>
 
